@@ -42,4 +42,4 @@ To run this application locally, follow these steps:
 4. Copy Files:
   - Copy the project files into the htdocs directory of your XAMPP installation (usually located at C:\xampp\htdocs on Windows).
 5. Access the Application:
-   - Open your browser and navigate to http://localhost/automated-bpm (adjust the path based on where you placed the project files) to view the Automated BPM application.
+- Open your browser and navigate to http://localhost/automated-bpm (adjust the path based on where you placed the project files) to view the Automated BPM application.
